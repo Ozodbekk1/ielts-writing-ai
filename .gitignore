@@ -1,0 +1,9 @@
+llama.cpp/
+qwen3-0.6b/
+ielts-qwen-merged/
+ielts-qwen-output-other-lower/
+ielts-qwen-output/checkpoint-50/
+*.pt
+*.pth
+sample_data/
+.config/
